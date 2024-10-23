@@ -4,7 +4,7 @@
   version="1.0"
   name="Tableau Data Fetch Extension"
   description="Fetch data from a Tableau worksheet">
-  <url>https://<your-github-username>.github.io/tableau-extension-test/myExtension.html</url> <!-- Replace with your GitHub Pages URL -->
+  <url>https://praveen-lvv.github.io/tableau-extension-test/myExtension.html</url> <!-- Replace with your GitHub Pages URL -->
   <extension-version>1.0</extension-version>
   <author>
     <name>Your Name</name>
