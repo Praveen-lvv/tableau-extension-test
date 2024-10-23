@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extension
+  id="com.github.myextension"
+  version="1.0"
+  name="Tableau Data Fetch Extension"
+  description="Fetch data from a Tableau worksheet">
+  <url>https://<your-github-username>.github.io/tableau-extension-test/myExtension.html</url> <!-- Replace with your GitHub Pages URL -->
+  <extension-version>1.0</extension-version>
+  <author>
+    <name>Your Name</name>
+    <email>your-email@example.com</email>
+  </author>
+</extension>
